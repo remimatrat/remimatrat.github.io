@@ -108,4 +108,4 @@ function newRandomColor() {
 
   randomColorNumber = num;
   return colorArray[num];
-}`$
+}
