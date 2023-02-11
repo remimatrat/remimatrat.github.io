@@ -1,9 +1,21 @@
 var quoteArray = [
-  ["Be the change that you wish to see in the world.", "-Mahatma Gandhi"],
-  ["People who think they know everything are a great annoyance to those of us who do.", "-Isaac Asimov"],
-  ["The fool doth think he is wise, but the wise man knows himself to be a fool.", "-William Shakespeare"],
-  ["If you don't stand for something you will fall for anything.", "Gordon A. Eadie"],
-  ["I solemnly swear that I am up to no good.", "J.K. Rowling"]
+  ["De quoi ne devrions nous pas rire car c'est trop sérieux ?"],
+  ["Prends 5 minutes et résume ta vie ou une partie de celle-ci selon les étapes : situation initiale, événement perturbateur, péripéties, situation finale"],
+  ["Quelle type de mort te fait le plus peur ?"],
+  ["Souhaiterais-tu être connu ? Si oui, de quelle manière ?"],
+  ["Fais-tu la sieste ?"]
+  ["Fais-tu ton lit le matin ?"]
+  ["Tu es dans quelle équipe : Snooze ou debout immédiatement ?"]
+  ["Quel est l'élément sur lequel tu ments dans ton CV ?"]
+  ["Tu es à jour de tes vaccins ?"]
+  ["Tu utilises quelle type de cafetière ?"]
+  ["Expresso ou café filtre ?"]
+  ["Parfois, on souhaite tout changer dans sa vie mais quel élément souhaiterais-tu toujours garder ?"]
+  [""]
+  [""]
+  [""]
+  [""]
+  [""]
 ];
 
 var colorArray = [
