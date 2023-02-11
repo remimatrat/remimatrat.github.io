@@ -19,11 +19,6 @@ var quoteArray = [
   ["Quelle est ta tenue préférée pour dormir ?"]
   ["On t'apprend que tu as été cloné à ta naissance et ton clone a fait sa vie de son côté. Comment réagis-tu ?"]
   ["Imagine que le sexe n'existe pas. Une startup arrive avec le concept. Imagine le pitch de présentation."]
-  [""]
-  [""]
-  [""]
-  [""]
-  [""]
 ];
 
 var colorArray = [
