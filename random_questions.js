@@ -49,6 +49,7 @@ var quoteArray = [
   ["Tu préfères revoir une ancienne bonne série ou essayer une nouvelle qui pourrait-être nulle ?"],
   ["Saint-Nectaire ou cantal ?"],
   ["Raclette ou fondue ?"],
+  ["Y-a-t-il quelque chose que tu rêves de faire mais que tu n'as jamais fati ? Poruquoi ?"],
 ];
 
 var colorArray = [
