@@ -61,7 +61,6 @@ $(document).ready(function() {
 
   $("body").css("background-color", randomColor);
   $("#quote-text").css("color", randomColor);
-  $("#quote-author").css("color", randomColor);
   $("#quote-box button").css("background-color", randomColor);
   $("i").css("color", randomColor);
 
@@ -79,7 +78,6 @@ $(document).ready(function() {
 
     $("body").css("background-color", randomColor);
     $("#quote-text").css("color", randomColor);
-    $("#quote-author").css("color", randomColor);
     $("#quote-box button").css("background-color", randomColor);
     $("i").css("color", randomColor);
 
