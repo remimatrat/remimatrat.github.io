@@ -3,22 +3,22 @@ var quoteArray = [
   ["Prends 5 minutes et résume ta vie ou une partie de celle-ci selon les étapes : situation initiale, événement perturbateur, péripéties, situation finale"],
   ["Quelle type de mort te fait le plus peur ?"],
   ["Souhaiterais-tu être connu ? Si oui, de quelle manière ?"],
-  ["Fais-tu la sieste ?"]
-  ["Fais-tu ton lit le matin ?"]
-  ["Tu es dans quelle équipe : Snooze ou debout immédiatement ?"]
-  ["Quel est l'élément sur lequel tu ments dans ton CV ?"]
-  ["Tu es à jour de tes vaccins ?"]
-  ["Tu utilises quelle type de cafetière ?"]
-  ["Expresso ou café filtre ?"]
-  ["Parfois, on souhaite tout changer dans sa vie mais quel élément souhaiterais-tu toujours garder ?"]
-  ["Es-tu plus influencé par le passé ou le futur ?"]
-  ["Tu prends ta douche le soir ou le matin ?"]
-  ["As-tu appris à jouer d'un instrument de musique ?"]
-  ["Te souviens-tu de la dernière fois où tu as croisé un animal dans la nature ?"]
-  ["Que souvenir joyeux d'enfance souhaites-tu partager ?"]
-  ["Quelle est ta tenue préférée pour dormir ?"]
-  ["On t'apprend que tu as été cloné à ta naissance et ton clone a fait sa vie de son côté. Comment réagis-tu ?"]
-  ["Imagine que le sexe n'existe pas. Une startup arrive avec le concept. Imagine le pitch de présentation."]
+  ["Fais-tu la sieste ?"],
+  ["Fais-tu ton lit le matin ?"],
+  ["Tu es dans quelle équipe : Snooze ou debout immédiatement ?"],
+  ["Quel est l'élément sur lequel tu ments dans ton CV ?"],
+  ["Tu es à jour de tes vaccins ?"],
+  ["Tu utilises quelle type de cafetière ?"],
+  ["Expresso ou café filtre ?"],
+  ["Parfois, on souhaite tout changer dans sa vie mais quel élément souhaiterais-tu toujours garder ?"],
+  ["Es-tu plus influencé par le passé ou le futur ?"],
+  ["Tu prends ta douche le soir ou le matin ?"],
+  ["As-tu appris à jouer d'un instrument de musique ?"],
+  ["Te souviens-tu de la dernière fois où tu as croisé un animal dans la nature ?"],
+  ["Que souvenir joyeux d'enfance souhaites-tu partager ?"],
+  ["Quelle est ta tenue préférée pour dormir ?"],
+  ["On t'apprend que tu as été cloné à ta naissance et ton clone a fait sa vie de son côté. Comment réagis-tu ?"],
+  ["Imagine que le sexe n'existe pas. Une startup arrive avec le concept. Imagine le pitch de présentation."],
 ];
 
 var colorArray = [
