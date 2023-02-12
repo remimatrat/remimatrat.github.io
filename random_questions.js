@@ -10,7 +10,7 @@ var quoteArray = [
   ["Tu es à jour de tes vaccins ?"],
   ["Tu utilises quelle type de cafetière ?"],
   ["Thé ou café ?"],
-  ["Expresso ou café filtre ?"],
+  ["Expresso ou allongé ?"],
   ["Parfois, on souhaite tout changer dans sa vie mais quels éléments garderais-tu quoi qu'il arrive ?"],
   ["Es-tu plus influencé par le passé ou le futur ?"],
   ["Tu prends ta douche le soir ou le matin ?"],
