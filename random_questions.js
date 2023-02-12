@@ -58,8 +58,6 @@ $(document).ready(function() {
 
   $("#quote-text").text(
     quote[0]);
-  $("#quote-author").text(
-    quote[1]);
 
   $("body").css("background-color", randomColor);
   $("#quote-text").css("color", randomColor);
@@ -78,8 +76,6 @@ $(document).ready(function() {
 
     $("#quote-text").text(
       quote[0]);
-    $("#quote-author").text(
-      quote[1]);
 
     $("body").css("background-color", randomColor);
     $("#quote-text").css("color", randomColor);
