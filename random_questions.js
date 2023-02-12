@@ -120,3 +120,7 @@ function newRandomColor() {
   randomColorNumber = num;
   return colorArray[num];
 }
+
+document.addEventListener("DOMContentLoaded", function() {
+	document.querySelector("#time").innerHTML = new Date().toString();
+});
