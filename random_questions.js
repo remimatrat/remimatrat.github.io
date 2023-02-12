@@ -1,10 +1,10 @@
 var quoteArray = [
-  ["De quoi ne devrions nous pas rire car le sujet est trop sérieux ?"],
+  ["Quel sujet est trop sérieux pour en rire ?"],
   ["Prends 5 minutes et résume ta vie selon les étapes : situation initiale, événement perturbateur, péripéties, situation finale."],
-  ["Quelle type de mort te fait le plus peur ?"],
+  ["Quelle genre de mort te fait le plus peur ?"],
   ["Souhaiterais-tu être connu ? Si oui, de quelle manière ?"],
   ["Fais-tu la sieste ?"],
-  ["Fais-tu ton lit tous les matins ?"],
+  ["Fais-tu ton lit chaque matins ?"],
   ["Tu es dans quelle équipe : tu snoozes ou tu te lèves direct ?"],
   ["Quel est l'élément sur lequel tu ments dans ton CV ?"],
   ["Tu es à jour de tes vaccins ?"],
