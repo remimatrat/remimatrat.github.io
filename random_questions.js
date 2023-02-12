@@ -5,7 +5,7 @@ var quoteArray = [
   ["Souhaiterais-tu être connu ? Si oui, de quelle manière ?"],
   ["Fais-tu la sieste ?"],
   ["Fais-tu ton lit le matin ?"],
-  ["Tu es dans quelle équipe : Snooze ou debout immédiatement ?"],
+  ["Tu es dans quelle équipe : tu snoozes ou tu te lèves direct ?"],
   ["Quel est l'élément sur lequel tu ments dans ton CV ?"],
   ["Tu es à jour de tes vaccins ?"],
   ["Tu utilises quelle type de cafetière ?"],
