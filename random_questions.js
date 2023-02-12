@@ -26,7 +26,7 @@ var quoteArray = [
   ["Saut à l'élastique ou saut en parachute ?"],
   ["Quel est ton signe du Zodiaque ? Tu y attaches de l'importance ?"],
   ["Si tu pouvais changer l'année de ta naissance, que choisirais-tu ?"],
-  ["Chat ou chien ?"],
+  ["Tu es plus chat ou chien ?"],
   ["As-tu eu un animal de compagnie ? Quel était son nom ?"],
   ["Quel siège préfères-tu : fenêtre ou couloir ?"],
   ["Si tu pouvais revivre une année de ta vie, quel serait ton choix ?"],
