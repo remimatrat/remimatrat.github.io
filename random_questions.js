@@ -4,7 +4,7 @@ var quoteArray = [
   ["Quelle genre de mort te fait le plus peur ?"],
   ["Souhaiterais-tu être connu ? Si oui, de quelle manière ?"],
   ["Fais-tu la sieste ?"],
-  ["Fais-tu ton lit chaque matins ?"],
+  ["Fais-tu ton lit chaque matins\u00A0?"],
   ["Tu es dans quelle équipe : tu snoozes ou tu te lèves direct ?"],
   ["Quel est l'élément sur lequel tu ments dans ton CV ?"],
   ["Tu es à jour de tes vaccins ?"],
