@@ -1,6 +1,6 @@
 var quoteArray = [
   ["Si ton appartement partait en fumée, qu'est ce que tu ne pourrais pas remplacer\u00A0?"],
-  ["As-tu passé une bonne semaine ?<br/>Identifie un point positif et un qui aurait pu être meilleur."],
+  ["As-tu passé une bonne semaine ? Identifie un point positif et un qui aurait pu être meilleur."],
   ["Prends 5 minutes et résume ta vie selon les étapes : situation initiale, événement perturbateur, péripéties, situation finale."],
   ["Quelle genre de mort te fait le plus peur\u00A0?"],
   ["Souhaiterais-tu être connu ? Si oui, de quelle manière\u00A0?"],
