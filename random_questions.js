@@ -39,7 +39,7 @@ var quoteArray = [
   ["Do you have/had nicknames or short names? Who gave you them? Did you like being called that way?"],
   ["How do you organise your phone's apps icones?"],
   ["You can choose one thing that will become free for everyone on earth, what would you pick? And one thing only free for you?"],
-  ["Open WhatsApp and show what are the emoji on the first line of "recently used". What is your favorite emoji ? "],
+  ["Open WhatsApp and show what are the emoji on the first line of recently used. What is your favorite emoji ? "],
   ["What if things you said No to had been Yes?"],
   ["What is your favorite sleeping outfit?"],
   ["What people use to say about you when you were a kid?"],
