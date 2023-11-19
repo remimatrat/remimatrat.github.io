@@ -101,7 +101,7 @@ var quoteArray = [
   ["How do you feel regarding silences?"],
   ["Who would you haunt if you had to pick someone?"],
   ["What do you miss of being a child?"],
-  ["What do you want to learn in this life time?"],*
+  ["What do you want to learn in this life time?"],
   ["Did you ever lied on a skill to get hired?"],
 ];
 
