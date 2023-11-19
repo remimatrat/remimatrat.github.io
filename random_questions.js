@@ -21,7 +21,7 @@ var quoteArray = [
   ["Do you think we can stop the global warming? Will we?"],
   ["Dog or cat?"],
   ["Phò or Ramen?"],
-  ["Did you ever had a pet? What was it? What was it's name?"]
+  ["Did you ever had a pet? What was it? What was it's name?"],
   ["What does it mean for you to be a feminist? Can you search and read the definition of it? Do you relate to it?"],
   ["Would you use a selfdriving car without human driver? Without pedals and steering wheel?"],
   ["What is the hardest habits you decided to get ride of? Why ? Do you still stand it?"],
