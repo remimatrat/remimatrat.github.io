@@ -137,15 +137,12 @@ var randomColorNumber = 0;
 var quote;
 var newQuote;
 
-var twitterQuote = "";
-
 $(document).ready(function() {
   // initialize quote to a random one
   randomNum = newRandomNumber();
   randomColor = newRandomColor();
 
   quote = newQuote(randomNum);
-  twitterQuote = quote[0] + " " + quote[1];
 
   $("#quote-text").text(
     quote[0]);
@@ -162,7 +159,6 @@ $(document).ready(function() {
     randomColor = newRandomColor();
 
     quote = newQuote(randomNum);
-    twitterQuote = quote[0] + " " + quote[1];
 
     $("#quote-text").text(
       quote[0]);
@@ -173,11 +169,6 @@ $(document).ready(function() {
     $("i").css("color", randomColor);
 
   }); // end of new quote function
-
-  // when twitter icon is clicked
-  $("#twitter-icon").on("click", function() {
-    window.open("https://twitter.com/intent/tweet?text=" + twitterQuote);
-  }); // end of twitter click function
 
 }); // end of document ready function
 
