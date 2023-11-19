@@ -85,7 +85,7 @@ var quoteArray = [
   ["What do you check first when you get in an hotel room?"],
   ["What do you wish you knew 10 years ago?"],
   ["Do you plan what you are going to wear tomorrow before you go to bed?"],
-  ["What is your worst hotel experience ?"],
+  ["What is your worst hotel experience?"],
   ["Are you friend with your parents on the social media?"],
   ["Which movie were you scared of when you were young?"],
   ["Who do you want to spend more time with?"],
