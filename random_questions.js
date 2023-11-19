@@ -106,23 +106,16 @@ var quoteArray = [
 ];
 
 var colorArray = [
-  "#D2B4DE", //
-  "#F5B7B1", //
-  "#D7BDE2", //
-  "#E6B0AA", //
-  "#F2D7D5", //
-  "#D4E6F1", //
-  "#A9CCE3", //
-  "#D1F2EB", //
+  "#900C3F", //
+  "#FF5733", //
+  "#FFC300", //
+  "#372091", //
+  "#082392", //
+  "#6A0892", //
+  "#920877", //
+  "#087792", //
   "#D0ECE7", //
-  "#D4EFDF", //
-  "#D5F5E3", //
-  "#FDEBD0", //
-  "#F9E79F", //
-  "#FAD7A0", //
-  "#F5CBA7", //
-  "#EDBB99", //
-  "#D6EAF8", //
+  "#447156", //
 ];
 
 var numQuotes = quoteArray.length;
