@@ -29,7 +29,7 @@ var quoteArray = [
   { quote: "Unlock your phone and tell me what are your three last app open." },
   { quote: "Do you have a specific practice to peel fruits?" },
   { quote: "Are you a morning person?" },
-  { quote: "Blue pill or red pill? \n [<i>You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I'm offering is the truth. Nothing more.</i>]" },
+  { quote: "Blue pill or red pill? \n <i>You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I'm offering is the truth. Nothing more.</i>" },
   { quote: "Did you ever made a trip only by yourself? \n Where was it? \n How long did it last?" },
   { quote: "What is your favortie picture of you when your were very young?" },
   { quote: "We all did stupid things. What is the stupidest things you did?" },
