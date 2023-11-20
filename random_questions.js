@@ -66,7 +66,7 @@ var quoteArray = [
   { quote: "What is your daily coffee maker? " },
   { quote: "What is your favorite coffee maker?" },
   { quote: "Would you like to relive, as a spectator, what happened when your parents first met?" },
-  { quote: "Are your vaccins up to date?" },
+  { quote: "Are up to date regarding your vaccins?" },
   { quote: "What is the item you lie on in your resume?" },
   { quote: "Would you rather be buried or cremated?" },
   { quote: "Do you make your bed every morning?" },
