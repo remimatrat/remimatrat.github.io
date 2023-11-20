@@ -1,7 +1,7 @@
 var quoteArray = [
   { quote: "What is the thing that can't be replaced if your appartment would burn?" },
   { quote: "Do you think that we are the most advanced civilisation that Earth ever carried?" },
-  { quote: "When is your birthday? \n Do you belive in zodiac signs? \n Which are the most accurate chinese or classics?" },
+  { quote: "When is your birthday? \n Do you belive in zodiac signs? \n Which are the most accurate chinese or western?" },
   { quote: "Do you keep track of a wish list or a list of things you'd like to have?" },
   { quote: "You can pick one superpower, which one would you? With big powers come big responsabilities, what do you do with this super power?" },
   { quote: "Do you own a costumes box?" },
@@ -123,25 +123,35 @@ var colorArray = [
 
 $(document).ready(function () {
   nextQuote();
-
-  // whenever #new-quote-icon is clicked
-  $("#new-quote-icon").on("click", function () {
-    nextQuote();
-  }); // end of new quote function
-
 }); // end of document ready function
 
-function nextQuote() {
-  // initialize quote to a random one
-  var randomColor = colorArray[Math.floor(Math.random() * colorArray.length)];
+var pickedQuotes = [];
+var pickedColors = [];
 
-  var randomQuote = quoteArray[Math.floor(Math.random() * quoteArray.length)];
+function nextQuote() {
+
+  // if no more quote in quoteArray, reset quoteArray and pickedQuotes
+  if (quoteArray.length == 0) {
+    quoteArray = pickedQuotes;
+    pickedQuotes = [];
+  }
+
+  if (colorArray.length == 0) {
+    colorArray = pickedColors;
+    pickedColors = [];
+  }
+
+  let randomColor = colorArray.splice(Math.floor(Math.random() * colorArray.length), 1)[0];
+  let randomQuote = quoteArray.splice(Math.floor(Math.random() * quoteArray.length), 1)[0];
+
+  pickedQuotes.push(randomQuote);
+  pickedColors.push(randomColor);
 
   $("#quote-text").text(
     randomQuote.quote);
 
-  $("body").css("background-color", randomColor);
-  $("#quote-text").css("color", randomColor);
-  $("#quote-box button").css("background-color", randomColor);
-  $("i").css("color", randomColor);
+  $("body").animate({ backgroundColor: randomColor }), 200;
+  $("#quote-text").animate({ color: randomColor }, 200);
+  $("#quote-box button").animate({ backgroundColor: randomColor }), 200;
+  $("i").animate({ color: randomColor }, 200);
 }
