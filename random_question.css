@@ -1,6 +1,10 @@
 body {
   background-color: black;
 }
+h1 {
+  font-weight: bold;
+  font-size: 32px;
+}
 
 #quote-box {
   background-color: white;
