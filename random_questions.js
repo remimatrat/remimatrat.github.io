@@ -16,7 +16,7 @@ var quoteArray = [
   { quote: "Did you experience illegal substences?\nWhat do you keep from that?" },
   { quote: "What kind of death scares you most?" },
   { quote: "If you could change the year of your birth which would you pick?" },
-  { quote: "Do you belive ghosts exists?What about aliens?" },
+  { quote: "Do you belive ghosts exists? What about aliens?" },
   { quote: "How long will it take for our civilization to collapse?" },
   { quote: "Do you think we can stop the global warming?\nWill we?" },
   { quote: "Dog or cat?" },
