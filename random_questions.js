@@ -17,7 +17,7 @@ var quoteArray = [
   { quote: "What kind of death scares you most?" },
   { quote: "If you could change the year of your birth which would you pick?" },
   { quote: "Do you belive ghosts exists? \n What about aliens?" },
-  { quote: "How long will it take for our civilization to collapse? \n What would you do if we are still alive when it happens?" },
+  { quote: "How long will it take for our civilization to collapse?" },
   { quote: "Do you think we can stop the global warming? \n Will we?" },
   { quote: "Dog or cat?" },
   { quote: "Phò or Ramen?" },
