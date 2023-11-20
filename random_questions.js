@@ -147,6 +147,9 @@ function nextQuote() {
   pickedQuotes.push(randomQuote);
   pickedColors.push(randomColor);
 
+  console.log(randomQuote);
+  console.log(pickedQuotes);
+  
   $("#quote-text").text(
     randomQuote.quote);
 
