@@ -106,7 +106,7 @@ var quoteArray = [
 ];
 
 var colorArray = [
-  "#F7EF39", //
+  "#D9D309", //
   "#F28123", //
   "#D34E24", //
   "#563F1B", //
