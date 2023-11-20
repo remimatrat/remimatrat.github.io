@@ -1,7 +1,7 @@
 var quoteArray = [
   ["What is the thing that can't be replaced if your appartment would burn?"],
   ["Do you think that we are the most advanced civilisation that Earth ever carried?"],
-  ["When is your birthday? \n Do you belive in zodiac signs? \n Which are the most accurate chinese or classics?"],
+  ["When is your birthday? \n Do you belive in zodiac signs? \n Which are the most accurate chinese or western?"],
   ["Do you keep track of a wish list or a list of things you'd like to have?"],
   ["You can pick one superpower, which one would you? With big powers come big responsabilities, what do you do with this super power?"],
   ["Do you own a costumes box?"],
