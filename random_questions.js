@@ -3,7 +3,7 @@ var quoteArray = [
   { quote: "Do you think that we are the most advanced civilisation that Earth ever carried?" },
   { quote: "When is your birthday? Do you belive in zodiac signs? Which are the most accurate chinese or western?" },
   { quote: "Do you keep track of a wish list or a list of things you'd like to have?" },
-  { quote: "You can pick one superpower, which one would you? With big powers come big responsabilities, what do you do with this super power?" },
+  { quote: "You can pick one superpower, which one would you? 'With big powers come big responsabilities', what do you do with this super power?" },
   { quote: "Do you own a costumes box?" },
   { quote: "What do you do in life that is not in your resume?" },
   { quote: "If money was not an issue, what would you do?" },
