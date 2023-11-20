@@ -102,7 +102,7 @@ var quoteArray = [
   { quote: "Who would you haunt if you had to pick someone?" },
   { quote: "What do you miss of being a child?" },
   { quote: "What do you want to learn in this life time?" },
-  { quote: "Did you ever lied on a skill to get hired?" },
+  { quote: "Did you ever lied on a skill to get hired?" }
 ];
 
 var colorArray = [
