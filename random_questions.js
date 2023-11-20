@@ -153,8 +153,8 @@ function nextQuote() {
   $("#quote-text").text(
     randomQuote.quote);
 
-  $("body").animate({ backgroundColor: randomColor }), 200;
-  $("#quote-text").animate({ color: randomColor }, 200);
-  $("#quote-box button").animate({ backgroundColor: randomColor }), 200;
-  $("i").animate({ color: randomColor }, 200);
+  $("body").animate("background-color", randomColor);
+  $("#quote-text").css("color", randomColor);
+  $("#quote-box button").css("background-color", randomColor);
+  $("i").css("color", randomColor);
 }
