@@ -21,7 +21,7 @@ var quoteArray = [
   { quote: "Do you think we can stop the global warming? \n Will we?" },
   { quote: "Dog or cat?" },
   { quote: "Phò or Ramen?" },
-  { quote: "Did you ever had a pet? \n What was it? \n What was it's name?" },
+  { quote: "Did you ever had a pet? \n What type of pet was it? \n What was it's name?" },
   { quote: "What does it mean for you to be a feminist? \n Can you search and read the definition of it? \n Do you relate to it?" },
   { quote: "Would you use a selfdriving car without human driver? \n Without pedals and steering wheel?" },
   { quote: "What is the hardest habits you decided to get ride of? \n Why? \n Do you still stand it?" },
