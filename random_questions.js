@@ -84,7 +84,7 @@ var quoteArray = [
   { quote: "What do usually you have for breakfast?" },
   { quote: "What do you check first when you get in an hotel room?" },
   { quote: "What do you wish you knew 10 years ago?" },
-  { quote: "Do you plan what you are going to wear tomorrow before you go to bed?" },
+  { quote: "Do you usually plan what you are going to wear the day after before going to bed?" },
   { quote: "What is your worst hotel experience?" },
   { quote: "Are you friend with your parents on the social media?" },
   { quote: "Which movie were you scared of when you were young?" },
