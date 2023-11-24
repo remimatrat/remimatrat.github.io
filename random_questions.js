@@ -87,7 +87,7 @@ var quoteArray = [
   { quote: "Do you usually plan what you are going to wear the day after before going to bed?" },
   { quote: "What is your worst hotel experience?" },
   { quote: "Are you friend with your parents on the social media?" },
-  { quote: "Which movie were you scared of when you were young?" },
+  { quote: "Which movie were you scared of watching when you were young?" },
   { quote: "Who do you want to spend more time with?" },
   { quote: "Do you usualy have a plan?" },
   { quote: "Are you easily annoyed by spelling mistakes?" },
