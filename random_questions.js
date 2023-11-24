@@ -86,7 +86,7 @@ var quoteArray = [
   { quote: "What do you wish you knew 10 years ago?" },
   { quote: "Do you usually plan what you are going to wear the day after before going to bed?" },
   { quote: "What is your worst hotel experience?" },
-  { quote: "Are you friend with your parents on the social media?" },
+  { quote: "Are you friend with your parents on social media?" },
   { quote: "Which movie were you scared of watching when you were young?" },
   { quote: "Who do you want to spend more time with?" },
   { quote: "Do you usualy have a plan?" },
