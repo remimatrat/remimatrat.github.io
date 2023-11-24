@@ -81,7 +81,7 @@ var quoteArray = [
   { quote: "Do you listen to radio? What is your favortie channel?" },
   { quote: "If you had to hide a corpse, who would you call?" },
   { quote: "Where do you get the news from?" },
-  { quote: "What do usually you have for breakfast?" },
+  { quote: "What do you usually you have for breakfast?" },
   { quote: "What do you check first when you get in an hotel room?" },
   { quote: "What do you wish you knew 10 years ago?" },
   { quote: "Do you usually plan what you are going to wear the day after before going to bed?" },
