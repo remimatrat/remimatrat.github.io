@@ -33,7 +33,7 @@ var quoteArray = [
   { quote: "Did you ever made a trip only by yourself? \r\n Where was it? \r\n How long did it last?" },
   { quote: "What is the favortie picture of you when you were very young?" },
   { quote: "We all did stupid things. What is the stupidest things you did?" },
-  { quote: "According to you, what was the most decisive moment of your life?" },
+  { quote: "According to you, what has been the most decisive moment of your life so far?" },
   { quote: "Should sex be at the Olympics?\nWhat could be the related events?" },
   { quote: "Do you prefer to get the information that you have 5 years to live or have 10 years to live but not knowing when it will end." },
   { quote: "Do you have/had nicknames or short names?\nWho gave you them? Did you like being called that way?" },
