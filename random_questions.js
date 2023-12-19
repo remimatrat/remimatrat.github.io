@@ -26,7 +26,7 @@ var quoteArray = [
   { quote: "Would you use a selfdriving car without human driver?\r\nWithout pedals and steering wheel?" },
   { quote: "What is the hardest habits you decided to get rid of?\r\nWhy?\r\nDo you still stand it?" },
   { quote: "Which seat do you usualy pick: window or aisle?" },
-  { quote: "Unlock your phone and tell me what are your three last app open." },
+  { quote: "Unlock your phone and tell me what are your three last apps open." },
   { quote: "Do you have a specific practice to peel fruits?" },
   { quote: "Are you a morning person?" },
   { quote: "Blue pill or red pill?\r\n'You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I'm offering is the truth. Nothing more.'" },
