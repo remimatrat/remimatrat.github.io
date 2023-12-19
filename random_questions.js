@@ -73,7 +73,7 @@ var quoteArray = [
   { quote: "What is your home office routine?" },
   { quote: "What is your home office outfit?" },
   { quote: "Have you ever been arrested by the police?" },
-  { quote: "Do you like to take a nap?" },
+  { quote: "Do you like to take naps?" },
   { quote: "Would you like to be famous? In what way?" },
   { quote: "Do you have a secret hunch about how you will die?" },
   { quote: "If you could change anything about the way you grew up, what would it be?" },
