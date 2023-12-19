@@ -39,7 +39,7 @@ var quoteArray = [
   { quote: "Do you have/had nicknames or short names?\nWho gave you them? Did you like being called that way?" },
   { quote: "How do you organise your phone's apps icones?" },
   { quote: "You can choose one thing that will become free for everyone on earth, what would you pick? And one thing only free for you?" },
-  { quote: "Open WhatsApp and show what are the emoji on the first line of recently used. What is your favorite emoji?" },
+  { quote: "Open WhatsApp and show what are the emojis on the first line of recently used. What is your favorite emoji?" },
   { quote: "What if things you said 'No' to had been 'Yes'?" },
   { quote: "What is your favorite sleeping outfit?" },
   { quote: "What people use to say about you when you were a kid?" },
