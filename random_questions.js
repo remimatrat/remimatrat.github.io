@@ -94,7 +94,7 @@ var quoteArray = [
   { quote: "Is jealousy a proof of affection?" },
   { quote: "What type of crisps do you prefer?" },
   { quote: "Pepsi or Coca-Cola?" },
-  { quote: "Can you be in a relationship with someone who keep a weapon at home?" },
+  { quote: "Can you be in a relationship with someone who owns a gun?" },
   { quote: "Text messaging or voice messaging?" },
   { quote: "What is your favorite type of street food?" },
   { quote: "Could you be in a relationship with some that would follow strict relgion habits (but he/she accepts that you don't)?" },
