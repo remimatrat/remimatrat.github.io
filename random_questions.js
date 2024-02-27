@@ -11,7 +11,7 @@ var quoteArray = [
   { quote: "Did you ever face a corpse?" },
   { quote: "Who would you have dinner with if you could pick a dead, alive or imaginary person?" },
   { quote: "Could you become vegetarian?\r\nVegan?" },
-  { quote: "Do you think we can get ride of the cars?\r\nWhat would that involve for the society?" },
+  { quote: "Do you think we can get rid of the cars?\r\nWhat would that involve for the society?" },
   { quote: "If you put yourself in 1 year, what would be the title and the main lines of the article?" },
   { quote: "Did you experience illegal substences?\r\nWhat do you keep from that?" },
   { quote: "What kind of death scares you most?" },
