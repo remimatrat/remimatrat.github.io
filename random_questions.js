@@ -36,7 +36,6 @@ var quoteArray = [
   { quote: "What do you usually you have for breakfast?" },
   { quote: "What is your worst hotel experience?" },
   { quote: "Are you friend with your parents on social media?" },
-  { quote: "What is your favorite crisps?"}
 ];
 
 var colorArray = [
