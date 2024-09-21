@@ -24,7 +24,7 @@ var quoteArray = [
   { quote: "You have to get ride of one of your 5 senses, which one do you give up on?" },
   { quote: "Do you remember when you had an encounter a wild animal?" },
   { quote: "Do or did you play an musical instrument?" },
-  { quote: "WDo you shower in the evening or in the morning?" },
+  { quote: "Do you shower in the evening or in the morning?" },
   { quote: "Comté or St-Nectaire?" },
   { quote: "What is your daily coffee maker?" },
   { quote: "What is your favorite coffee maker?" },
