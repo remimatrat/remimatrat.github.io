@@ -29,7 +29,7 @@ var quoteArray = [
   { quote: "What is your daily coffee maker?" },
   { quote: "What is your favorite coffee maker?" },
   { quote: "Are up to date regarding your vaccins?" },
-  { quote: "Do you make your bed every morning?'" },
+  { quote: "Do you make your bed every morning?" },
   { quote: "What is your home office outfit?" },
   { quote: "Do you like to take naps?" },
   { quote: "If you had to hide a corpse, who would you call first?" },
